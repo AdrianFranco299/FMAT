@@ -1,2 +1,2 @@
 # Listado
-- [Objetivo](- [Objetivo](https://github.com/Benn7n/PY-FIS-LAMINAS/blob/main/DOCUMENTOS/1.1%20DESCRIPCI%C3%93N%20DE%20LA%20APLICACI%C3%93N/1.%20Objetivo.md)
+- [Competencias Genericas](https://github.com/AdrianFranco299/FMAT/blob/46e8504ac007616d3729d18d36f4c77e86d393ef/competencias/competenciasgenericas)
